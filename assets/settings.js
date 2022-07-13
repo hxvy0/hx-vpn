@@ -1,0 +1,1 @@
+var Settings = {"appMonetization":"adsOnly","":"","backgroundImage":"","packageName":"com.wHXVpn_15742079","name":"HX Vpn","template":"vpnPremium","icon":"uploaded_data\/icon.png","themeColors":{"colorPrimary":"#ff5722","colorPrimaryDark":"#e65100","colorAccent":"#ff3d00"}};
